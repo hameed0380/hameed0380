@@ -22,3 +22,6 @@ I'm a recent university graduate in the UK, studied Computer Science with a focu
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/hameed-roleola/).
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hameed0380&show_icons=true&locale=en&layout=compact" alt="hameed0380" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hameed0380)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
