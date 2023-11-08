@@ -6,7 +6,7 @@ I'm a recent university graduate in the UK, studied Computer Science with a focu
 
 - I hold a degree in Computer Science with a specialisation in Artificial Intelligence.
 - I'm interested in machine learning, software development, and all things AI.
-- I enjoy working on both academic projects and open-source contributions.
+- I enjoy working on both academic projects and open-source contributions. 
 
 #### Skills
 
