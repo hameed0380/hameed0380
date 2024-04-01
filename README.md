@@ -12,6 +12,7 @@ I'm a recent university graduate in the UK, studied Computer Science with a focu
 
 - Programming languages: Python, Java, R
 - Data analysis and visualization: Pandas, Matplotlib, scikit-learn
+- Data Engineering - AWS, Apache Kafka, Spark, Airflow, Databricks
 - Databases: SQL, Microsoft SQL Server, Microsoft Azure, PGADMIN
 - Web development: HTML, CSS, JavaScript
 - Technical: NLP, Tableau, Power BI
