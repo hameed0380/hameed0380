@@ -1,6 +1,6 @@
 # Hi there! I’m Hameed👋
 
-I'm a recent university graduate in the UK, studied Computer Science with a focus on Artificial Intelligence. You can find some of my non-commercial work here, from university code repositories to general open-source projects.
+I'm a recent university graduate based in the UK, studied Computer Science with a focus on Artificial Intelligence. You can find some of my work here, from university code repositories to general open-source projects.
 
 #### About Me
 
@@ -10,12 +10,13 @@ I'm a recent university graduate in the UK, studied Computer Science with a focu
 
 #### Skills
 
-- Programming languages: Python, Java, R
-- Data analysis and visualization: Pandas, Matplotlib, scikit-learn
-- Data Engineering - AWS, Apache Kafka, Spark, Airflow, Databricks
-- Databases: SQL, Microsoft SQL Server, MYSQL, PGadmin
-- Web development: HTML, CSS, JavaScript
-- Technical: NLP, Tableau, Power BI
+- Languages: Python, Java, SQL, R
+- Data Analytics and Visualization: Python(Pandas, Matplotlib, scikit-learn), SQL, Power BI, Tableau
+- Data Engineering - AWS (EC2, RDS, S3, MSK, MWAA), Apache Kafka, Apache Spark, Databricks
+- Databases: Postgresql, sqlite
+- Web dev: HTML, CSS, JavaScript
+- Tools & Platforms: Git, GitHub, Apache Airflow
+
 
 #### Contact
 
