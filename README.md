@@ -19,5 +19,5 @@ I'm a recent university graduate in the UK, studied Computer Science with a focu
 
 #### Contact
 
-- 📫 You can reach me via email at [hameed0380@gmail.com](mailto:hameed0380@gmail.com).
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/hameed-roleola/).
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hameed-roleola/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hameed0380@gmail.com)
