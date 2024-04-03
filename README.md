@@ -5,7 +5,7 @@ I'm a recent university graduate based in the UK, studied Computer Science with 
 #### About Me
 
 - I hold a degree in Computer Science with a specialisation in Artificial Intelligence.
-- I'm interested in machine learning, software development, and all things AI.
+- I'm interested in machine learning, software development, and all things Data and AI.
 - Currently working on data engineering pipeline project. 
 
 #### Skills
