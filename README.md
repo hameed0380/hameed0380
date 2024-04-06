@@ -10,7 +10,7 @@ I'm a recent university graduate based in the UK, studied Computer Science with 
 
 #### Skills
 
-- Languages: Python, Java, SQL, R
+- Languages: Python, SQL, R
 - Data Analytics and Visualization: Python(Pandas, Matplotlib, scikit-learn), SQL, Power BI, Tableau
 - Data Engineering - AWS (EC2, RDS, S3, MSK, MWAA), Apache Kafka, Apache Spark, Databricks
 - Databases: Postgresql, sqlite
