@@ -5,18 +5,18 @@
 
 #### About Me
 
-- I hold a Masters degree in Computer Science with a specialisation in Artificial Intelligence.
+- I hold a Masters degree in Computer Science with a focused expertise in Artificial Intelligence.
 - I'm interested in machine learning, software development, and all things Data and AI.
 - Currently immersed in a data engineering pipeline project, turning raw data into actionable insights.
 
 #### Skills
 
-- Languages: Python, SQL, R
-- Data Analytics and Visualization: Python (Pandas, Matplotlib, sci-kit-learn), SQL, Power BI, Tableau
-- Data Engineering: AWS (EC2, RDS, S3, MSK, MWAA), Apache Kafka, Apache Spark, Databricks
-- Databases: PostgreSQL, SQLite
-- Web Development: HTML, CSS, JavaScript
-- Tools & Platforms: Git, GitHub, Apache Airflow
+- **Languages:** Python, SQL, R
+- **Data Analytics and Visualization:** Python (Pandas, Matplotlib, sci-kit-learn), SQL, Power BI, Tableau
+- **Data Engineering:** AWS (EC2, RDS, S3, MSK, MWAA), Apache Kafka, Apache Spark, Databricks
+- **Databases:** PostgreSQL, SQLite
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools & Platforms:** Git, GitHub, Apache Airflow
 
 
 #### Contact
