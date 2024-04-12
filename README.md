@@ -1,6 +1,6 @@
 # Hi there! I’m Hameed👋
 
-🎓 Recent Computer Science graduate from the UK with a specialization in Artificial Intelligence. Passionate about leveraging technology to solve real-world problems. <br>
+🎓 Recent Computer Science graduate from the UK with a specialization in Artificial Intelligence. Passionate about leveraging      technology to solve real-world problems. <br>
 👨‍💻 Explore my diverse portfolio, ranging from university code repositories to contributions to the open-source community.
 
 #### About Me
