@@ -1,20 +1,21 @@
 # Hi there! I’m Hameed👋
 
-I'm a recent university graduate based in the UK, studied Computer Science with a focus on Artificial Intelligence. You can find some of my work here, from university code repositories to general open-source projects.
+🎓 Recent Computer Science graduate from the UK with a specialization in Artificial Intelligence. Passionate about leveraging technology to solve real-world problems. <br>
+👨‍💻 Explore my diverse portfolio, ranging from university code repositories to contributions to the open-source community.
 
 #### About Me
 
-- I hold a degree in Computer Science with a specialisation in Artificial Intelligence.
+- I hold a Masters degree in Computer Science with a specialisation in Artificial Intelligence.
 - I'm interested in machine learning, software development, and all things Data and AI.
-- Currently working on data engineering pipeline project. 
+- Currently immersed in a data engineering pipeline project, turning raw data into actionable insights.
 
 #### Skills
 
 - Languages: Python, SQL, R
-- Data Analytics and Visualization: Python(Pandas, Matplotlib, scikit-learn), SQL, Power BI, Tableau
-- Data Engineering - AWS (EC2, RDS, S3, MSK, MWAA), Apache Kafka, Apache Spark, Databricks
-- Databases: Postgresql, sqlite
-- Web dev: HTML, CSS, JavaScript
+- Data Analytics and Visualization: Python (Pandas, Matplotlib, sci-kit-learn), SQL, Power BI, Tableau
+- Data Engineering: AWS (EC2, RDS, S3, MSK, MWAA), Apache Kafka, Apache Spark, Databricks
+- Databases: PostgreSQL, SQLite
+- Web Development: HTML, CSS, JavaScript
 - Tools & Platforms: Git, GitHub, Apache Airflow
 
 
