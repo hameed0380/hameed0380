@@ -1,15 +1,15 @@
-# Hi there! I’m Hameed👋
+<h1 align="center">Hello! I'm Hameed 👋</h1>
 
-🎓 Recent Computer Science graduate from the UK with a specialization in Artificial Intelligence. Passionate about leveraging      technology to solve real-world problems. <br>
-👨‍💻 Explore my diverse portfolio, ranging from university code repositories to contributions to the open-source community.
+🎓 Recent Computer Science graduate with a specialization in Artificial Intelligence. I am enthusiastic about harnessing technology to tackle real-world challenges. <br>
+👨‍💻 Explore some of my projects ranging from data pipelines to exploratory data analysis.
 
-#### About Me
+### About Me
 
-- I hold a Masters degree in Computer Science with a focused expertise in Artificial Intelligence.
-- I'm interested in machine learning, software development, and all things Data and AI.
-- Currently immersed in a data engineering pipeline project, turning raw data into actionable insights.
+- A Computer Science Master's graduate with a keen focus on Artificial Intelligence.
+- Passionate about machine learning, software development, and the entire spectrum of Data and AI.
+- Currently working on a data engineering pipeline project, transforming raw data into actionable insights.
 
-#### Skills
+### Skills
 
 - **Languages:** Python, SQL, R
 - **Data Analytics and Visualization:** Python (Pandas, Matplotlib, sci-kit-learn), SQL, Power BI, Tableau
@@ -18,8 +18,7 @@
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools & Platforms:** Git, GitHub, Apache Airflow
 
-
-#### Contact
+### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hameed-roleola/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hameed0380@gmail.com)
