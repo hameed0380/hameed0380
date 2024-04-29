@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Hameed 👋</h1>
 
 🎓 Recent Computer Science graduate with a specialization in Artificial Intelligence. I am enthusiastic about harnessing technology to tackle real-world challenges. <br>
-👨‍💻 Explore some of my projects ranging from data pipelines to exploratory data analysis.
+👨‍💻 Explore some of my projects ranging from data pipelines to end to end exploratory data analysis.
 
 ### About Me
 
